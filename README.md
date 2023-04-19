@@ -37,3 +37,7 @@ La app estará disponible en `http://localhost:3000`
     - Configurar la variable de perfil
 6. Subir un nuevo cambio al repositorio
 7. Opcionalmente: crear un test que falle y comprobar que no se realiza el despliegue.
+
+## Url de la aplicación: http://pruebamireia-env.eba-2trxaept.us-east-1.elasticbeanstalk.com/
+
+## Url repositorio: https://github.com/MireGM/deploy_github_actions_sample.git
